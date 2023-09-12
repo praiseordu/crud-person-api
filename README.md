@@ -10,7 +10,7 @@ This is a simple REST API for managing persons.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Documentation](DOCUMENTATION.md)
-- [UML Diagram](UMLDiagram.png)
+- [UML Diagram](UML Diagram.png)
 - [Testing](testing)
 - [Contributing](contributing)
 - [License](LICENSE)
@@ -55,7 +55,7 @@ Please refer to the [documentation](DOCUMENTATION.md) for detailed information o
 
  UML Diagram
 
-![UML Diagram](UMLDiagram.png)
+![UML Diagram](UML Diagram.png)
 
 For a detailed UML diagram description, please see the [documentation](DOCUMENTATION.md).
 
