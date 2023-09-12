@@ -6,7 +6,6 @@ Table of Contents
 - [Standard Formats](#standard-formats)
 - [Endpoints](#endpoints)
 - [Sample Usage](#sample-usage)
-- [Limitations and Assumptions](#limitations-and-assumptions)
 - [Setting Up and Deploying](#setting-up-and-deploying)
 
 Standard Formats
