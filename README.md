@@ -9,7 +9,7 @@ This is a simple REST API for managing persons.
 - [Endpoints](#endpoints)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Documentation](documentation.md)
+- [Documentation](DOCUMENTATION.md)
 - [UML Diagram](uml-diagram)
 - [Testing](testing)
 - [Contributing](contributing)
