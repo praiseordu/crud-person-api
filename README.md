@@ -4,12 +4,12 @@
 This is a simple REST API for managing persons.
 
  Table of Contents
-- [Introduction](introduction)
-- [Features](features)
-- [Endpoints](endpoints)
-- [Getting Started](getting-started)
-- [Usage](usage)
-- [Documentation](documentation)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Endpoints](#endpoints)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Documentation](documentation.md)
 - [UML Diagram](uml-diagram)
 - [Testing](testing)
 - [Contributing](contributing)
