@@ -28,7 +28,7 @@ Responses from the API will be in JSON format. For example, a successful creatio
     "message": "Person created successfully"
 }
 
-**Endpoints**
+Endpoints
 
     POST /api: Create a new person.
     GET /api/{user_id}: Retrieve details of a person.
@@ -51,13 +51,13 @@ To delete a person, make a DELETE request to /api/{user_id}.
 
 Setting Up and Deploying
 
-### Prerequisites
+Prerequisites
 
 - Python 3.6+
 - Flask (Install using `pip install Flask`)
 - MySQL or another database of your choice
 
-### Installation
+ Installation
 
 1. Clone this repository:
 
