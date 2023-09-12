@@ -20,8 +20,8 @@ All requests should be made using JSON format. For example, when creating a new 
     "name": "John Doe"
 }
 
-**Response Format
-**
+Response Format
+
 Responses from the API will be in JSON format. For example, a successful creation response:
 
 {
@@ -35,8 +35,8 @@ Responses from the API will be in JSON format. For example, a successful creatio
     PUT /api/{user_id}: Update the details of a person.
     DELETE /api/{user_id}: Delete a person.
 
-**Sample Usage**
-**Creating a New Person**
+Sample Usage
+Creating a New Person
 
 To create a new person, make a POST request to /api with a JSON body containing the person's name.
 Retrieving a Person
