@@ -48,6 +48,32 @@ To update the details of a person, make a PUT request to /api/{user_id} with a J
 Deleting a Person
 
 To delete a person, make a DELETE request to /api/{user_id}.
+
 Setting Up and Deploying
 
-For instructions on setting up and deploying the API, please refer to the README.md file.
+### Prerequisites
+
+- Python 3.6+
+- Flask (Install using `pip install Flask`)
+- MySQL or another database of your choice
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/person-api.git
+   cd person-api
+1.Set up a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+2.Install dependencies:
+pip install -r requirements.txt
+
+3.Configure your database connection in config.py.
+
+4.Run the application:
+python app.py
+
+
