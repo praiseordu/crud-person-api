@@ -10,7 +10,7 @@ This is a simple REST API for managing persons.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Documentation](DOCUMENTATION.md)
-- [UML Diagram](https://github.com/praiseordu/crud-person-api/blob/65f96d279262b93df3a460329f9e3e4a8ccf4210/UML%20Diagram.png))
+- [UML Diagram](https://github.com/praiseordu/crud-person-api/blob/65f96d279262b93df3a460329f9e3e4a8ccf4210/UML%20Diagram.png)
 - [Testing](testing)
 - [Contributing](contributing)
 - [License](LICENSE)
