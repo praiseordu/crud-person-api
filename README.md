@@ -13,7 +13,7 @@ This is a simple REST API for managing persons.
 - [UML Diagram](uml-diagram)
 - [Testing](testing)
 - [Contributing](contributing)
-- [License](license)
+- [License](LICENSE)
 
  Introduction
 
